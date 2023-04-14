@@ -1,2 +1,2 @@
-# mmzpic
+# pichub
 pic
